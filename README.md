@@ -16,21 +16,20 @@ I am a Texas A&M University Ungergraduate, majoring in Computer Science. My curr
 
 
 
-
-# 📊 GitHub Stats:
 <!--
+# 📊 GitHub Stats:
+
 ![](https://github-readme-stats.vercel.app/api?username=ConnorAtmos&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
--->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ConnorAtmos&theme=tokyonight&hide_border=false)<br/>
 
-<!--
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ConnorAtmos&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
--->
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ConnorAtmos&limit=5&theme=dark&combine_all_yearly_contributions=true)
+-->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
