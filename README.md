@@ -3,7 +3,6 @@
 # 💫 About Me
 
 ![](./gifs/introduction.gif)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/GTppHvQwma) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/connor.swaven)
 
 I am a Texas A&M University Ungergraduate, majoring in Computer Science. My current project is related to stock analysis and research, utilizing machine learning.
 
